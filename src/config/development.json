@@ -1,0 +1,12 @@
+{
+  "CUSTOM_TYPES": {
+    "Address": "AccountId",
+    "LookupSource": "AccountId",
+    "ApnToken": {
+      "super_apn": "u32",
+      "agency_name": "Text",
+      "area": "u32"
+    }
+  },
+  "PROVIDER_SOCKET": "ws://127.0.0.1:9944"
+}
