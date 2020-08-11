@@ -70,9 +70,6 @@ function Main () {
             <BlockNumber finalized />
           </Grid.Row>
           <Grid.Row stretched>
-            <LeafletMap />
-          </Grid.Row>
-          <Grid.Row stretched>
             <GeoJsonMap />
           </Grid.Row>
           <Grid.Row stretched>

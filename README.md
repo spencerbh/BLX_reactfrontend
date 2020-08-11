@@ -1,15 +1,13 @@
-# _Basin Logix_ Substrate Front End Template
+# _Basin Logix_ Substrate Front End Template - WIP
 
-This template allows you to create a front-end application that connects to a
-[Substrate](https://github.com/paritytech/substrate) node back-end with minimal
-configuration. To learn about Substrate itself, visit the
-[Substrate Developer Hub](https://substrate.dev).
+This ~~template~~ front-end connects to a
+[Substrate](https://github.com/paritytech/substrate) node back-end.
 
-The template is built with [Create React App](https://github.com/facebook/create-react-app)
-and [Polkadot js API](https://polkadot.js.org/api/). Familiarity with these tools
-will be helpful, but the template strives to be self-explanatory. To learn how
-this template was built, visit the
+Its built with [Create React App](https://github.com/facebook/create-react-app)
+and [Polkadot js API](https://polkadot.js.org/api/). 
 [Substrate Front-End Tutorial](https://substrate.dev/docs/en/tutorials/substrate-front-end/).
+
+![image](https://drive.google.com/uc?export=view&id=12IPVvOYjMoAWoADx-8HznIARsqhctveF)
 
 ## Using The Template
 
@@ -38,6 +36,8 @@ You can also build the app in production mode,
 yarn build
 ```
 and open `build/index.html` in your favorite browser.
+
+# BLX INFO
 
 - first map is trial map
 - second map shows geojson which has been hard coded in  as `.json`.... starting page needs to be repositioned to Stockton, CA
